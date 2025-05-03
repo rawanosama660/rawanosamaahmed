@@ -1,0 +1,40 @@
+  *{
+    color: rgb(12, 12, 7);
+    background-color: rgb(215, 223, 223);
+  }
+  h2{
+    color: rgb(127, 150, 255);
+    text-align: ;
+}
+p{
+    font-size: large;
+}
+#header{
+    font-size:50 ;
+    background-color: rgb(229, 219, 230);
+    margin: 50px;
+    padding: 20px;
+    border: rgba(26, 65, 112, 0.715);
+    border-style: double;
+}
+td,th{
+    border: solid black 2px;
+    padding: 20px;
+}
+table{
+    border-collapse: collapse;
+}
+th{
+    background-color: rgb(146, 121, 155);
+}
+.btn{
+    background-color: rgb(169, 119, 187);
+}
+.btn-group{
+    background-color: bisque;
+
+
+}
+.label{
+
+}
